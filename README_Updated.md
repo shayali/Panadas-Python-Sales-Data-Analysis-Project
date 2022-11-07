@@ -10,14 +10,14 @@ Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.
 Objective
 Upon initial inspection of the data, we can start thinking of some questions about it that we would want to answer.
 
-•	What is overall sales trend?
-•	What are top 5 products by sale?
-•	What are most selling products?
-•	Which is the most preferred  Sales Channel ?
-•	Which are profitable categories?
+-	What is overall sales trend?
+-	What are top 5 products by sale?
+-	What are most selling products?
+-	Which is the most preferred  Sales Channel ?
+-	Which are profitable categories?
 
 DATA AUDITING
 We cannot work with the data until we know what are we dealing with, for example,
-•	Total Cost, Items Type column
-•	Looking for any missing data
-•	Number of rows and so on.
+-	Total Cost, Items Type column
+-	Looking for any missing data
+-	Number of rows and so on.
